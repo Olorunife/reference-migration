@@ -1,0 +1,9 @@
+cloud-pm-demo-app/
+├── app/
+│   ├── frontend/   # static + Node app
+│   └── README.md   # describe the demo app
+├── docs/
+│   ├── success-criteria.md  # measurable success targets
+│   └── architecture.md      # system design diagram + notes
+├── docker-compose.yml
+└── README.md
